@@ -1,6 +1,5 @@
 package com.wuc.domain;
 
-public class User {
+public class Cus {
     private String name;
-    private String word;
 }
